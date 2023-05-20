@@ -1,0 +1,52 @@
+[
+	{
+		"date": "05-19-2023",
+		"title": "Seeking for a New Job",
+		"description": "Want to Find a Job I Can Really Contribute to the World!",
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "05-12-2020",
+		"title": "Moved to Publicis Groupe.",
+		"description": "Worked as an AI Developer",
+		"done": [
+			"Designed, developed and modified 7+ software systems and custom components.",
+			"Used JavaScript frameworks ՄReactJS, AngularJS, Vue.js), TypeScript, Node.js and web3.js to interact with the Blockchain network.",
+			"Developed 5+ full-stack web applications which processed, analyzed and rendered data visually.",
+			"Planned, wrote and debugged 12+ web applications and software with complete accuracy."
+		],
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "04-20-2018",
+		"title": "Started Tai Tong Organic EcoPark",
+		"description": "Worked as a junior AI developer.",
+		"done": [
+			"Optimized SQL queries for the heavy-load parts of the system which improved website responsiveness and reduced the database costs by 20%.",
+			"Developed and maintained 10+ websites using ASP.NET MVC and SQL Server.",
+			"Developed a platform for e-Commerce digital distribution used by 200,000 users worldwide, employing .NET and Azure cloud infrastructure.",
+			"Provided infrastructure and integration guidelines for load-balancing and web farm deployment.",
+			"Designed an integrated database using MongoDB, MySQL, and PostgreSQL that leveraged the React architecture to yield on-demand detailed feedback.",
+			"Designed and implemented scalable backend for 5 business-critical websites."
+		],
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "04-04-2018",
+		"title": "Got Bachelor's Degree in Computer Science",
+		"description": "Graduated The University of Hong Kong",
+		"icon": "feather:award"
+	},
+	{
+		"date": "09-10-2014",
+		"title": "Entered University",
+		"description": "Began Studying Mathematics and Computer Science at The University of Hong Kong",
+		"icon": "feather:book"
+	},
+	{
+		"date": "01-17-1998",
+		"title": "Happy Birthday!",
+		"description": "I was born on 17th of January 2003",
+		"icon": "feather:gift"
+	}
+]
